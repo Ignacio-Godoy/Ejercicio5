@@ -1,0 +1,21 @@
+table{
+    width: 70%;
+    color: black;   
+    border-collapse: collapse;
+    text-align: center;
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#titulo{
+    background-color: crimson;
+    color:white;
+}
+tr:nth-child(even) {
+    background-color: #dddddde1;
+  }
+td, th{
+    border: 1px;
+    border-style: solid;
+    border-color: antiquewhite;
+    padding: 8px;
+}
